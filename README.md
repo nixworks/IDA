@@ -1,3 +1,3 @@
 # IDA
 #
-# 互聯網防禦局 (Hùliánwǎng fángyù jú) Internet Defense Agency
+# 互聯網防禦局 (Hùliánwǎng fángyù jú)
